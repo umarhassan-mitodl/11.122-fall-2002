@@ -64,7 +64,7 @@ French, Hilary, "Coping with Ecological Globalization," Chapter 10 in State of t
 
 Chomsky, Noam, "The Contours of the World Order," Year 501, Boston, South End Press, 1993, pp.: 33-64. (R)
 
-Mobilization for Global Justice, September 30th Protest in D.C., [http://www.september30.org/s30/](http://www.september30.org/s30/) (W)
+Mobilization for Global Justice, September 30th Protest in D.C., {{% resource_link "a9519e96-676f-4276-bd4e-53ed175b4f57" "http://www.september30.org/s30/" %}} (W)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -240,7 +240,7 @@ O'Meara, Molly, "Harnessing Information Technologies for the Environment," Chapt
 
 Fung, Archon, and Dara O'Rourke, "Reinventing Environmental Regulation from the Grassroots Up: Explaining and Expanding the Success of the Toxics Release Inventory," *Environmental Management*, 2000, vol. 25, no. 2, pp.:115-127. (R)
 
-Visit [http://www.scorecard.org](https://web.archive.org/web/20021202080648/http://www.scorecard.org/). (Archived version from Wayback Machine)
+Visit {{% resource_link "ec03371a-653b-43ee-8a83-cdfd18bb69e4" "http://www.scorecard.org" %}}. (Archived version from Wayback Machine)
 
 {{< tdclose >}}{{< tdopen >}}
 Evaluate your home zipcode in Scorecard
