@@ -4,6 +4,8 @@ description: 'Project: Green Chemistry at MIT, [by] Marc Steyer'
 file: /courses/11-122-environment-and-society-fall-2002/901f173abcb19aed8264e623f98e0ef0_fa01projectpresentation02.pdf
 file_size: 320130
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, objectives, assignments, evaluation, and required texts.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -62,6 +64,6 @@ Required Texts
 
 Hawken, Paul, Amory Lovins, and L. Hunter Lovins, _Natural Capitalism_, Boston, Little, Brown and Company, 1999.
 
-Individual chapters of Natural Capitalism are also available at: {{% resource_link "43bd1d21-cde1-4d4b-aa3c-442e20c663ec" "http://www.natcap.org/sitepages/pid20.php" %}}.
+Individual chapters of Natural Capitalism are also available at: [http://www.natcap.org/sitepages/pid20.php](http://www.natcap.org/sitepages/pid20.php).
 
 Additional required readings for the class will be available in a course reader. The reader can be purchased from CopyTech in the basement of building 11. The required books and reader will also be on reserve in Rotch Library.
