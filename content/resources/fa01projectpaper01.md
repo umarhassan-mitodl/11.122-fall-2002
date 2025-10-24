@@ -4,8 +4,6 @@ description: 'Project: Greening the Boston Marathon, [by] Eugene Lim'
 file: /courses/11-122-environment-and-society-fall-2002/33eac10e46332e3d30a555ebd01fe1e4_fa01projectpaper01.pdf
 file_size: 250528
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

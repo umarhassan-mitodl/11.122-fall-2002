@@ -5,8 +5,6 @@ description: 'Project: Industry Green: What Firms Are Doing on Their Own to Achi
 file: /courses/11-122-environment-and-society-fall-2002/5f18558ab59d4e223046edfe59baf993_fa01projectpresentation03.pdf
 file_size: 131408
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
